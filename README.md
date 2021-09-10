@@ -1,2 +1,3 @@
-# Reinforcement-learning-and-foraging-optimisation-for-controlling-underactuated-vibrating-robot
-This code is included as an appendix to the dissertation
+# CoppeliaSim_RL
+
+blog: https://blog.csdn.net/qq_37051669/article/details/115709739
